@@ -27,7 +27,7 @@ I'm a passionate Software Engineer specializing in Android development and softw
 
 ## 🌟 Projects
 - **Thesis:** Development of a Traffic Sign Recognition and Line-Following System Using AI.
-  - Built a fully autonomous vehicle system using machine learning algorithms for real-time traffic sign recognition.
+  - Built a fully autonomous vehicle system using machine learning algorithms for real-time traffic sign recognition. [Thesis](https://github.com/alindulceanu/LICENTA)
 
 ## 🌐 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/andrei-alin-dulceanu/)
