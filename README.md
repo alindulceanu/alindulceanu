@@ -29,9 +29,9 @@ I'm a passionate Software Engineer specializing in Android development and softw
 - **Thesis:** Development of a Traffic Sign Recognition and Line-Following System Using AI.
   - Built a fully autonomous vehicle system using machine learning algorithms for real-time traffic sign recognition. [Thesis](https://github.com/alindulceanu/LICENTA) (Python)
  
-- [Movie App](https://github.com/alindulceanu/Android_TMDB_Project) (Kotlin)
-- [Posts App](https://github.com/alindulceanu/Posts-App) (Kotlin)
 - [Work in progress - Books App Using NY Times's API](https://github.com/alindulceanu/Book-App/tree/main) (Java)
+- [Posts App](https://github.com/alindulceanu/Posts-App) (Kotlin)
+- [Movie App](https://github.com/alindulceanu/Android_TMDB_Project) (Kotlin)
 
 ## 🌐 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/andrei-alin-dulceanu/)
